@@ -75,7 +75,7 @@ All PCBs distributed by our team have lead-free HASL surface finish. A lead free
 
  
 ## FIRMWARE
-The firmware is available on Github here https://github.com/FRC9234/rio2rgb-pcb. This firmware is based on the popular FastLED library and on the original REV Blinkin firmware. When used in PWM mode, it is 100% compatible with the latter so that it can be controlled as specified by the “led pattern table” part of the REV Blinkin user manual.
+The firmware is available on Github here https://github.com/FRC9234/rio2rgb-arduino. This firmware is based on the popular FastLED library and on the original REV Blinkin firmware. When used in PWM mode, it is 100% compatible with the latter so that it can be controlled as specified by the “led pattern table” part of the REV Blinkin user manual.
 
 
 ## DISCLAIMER
