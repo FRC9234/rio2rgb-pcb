@@ -79,4 +79,4 @@ The firmware is available on Github here https://github.com/FRC9234/rio2rgb-ardu
 
 
 ## DISCLAIMER
-Neither REV Robotics nor any of the Blinkin firmware contributors endorse or promote this project.
+Neither REV Robotics nor any of the Blinkin firmware contributors endorse this project.
